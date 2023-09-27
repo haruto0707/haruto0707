@@ -1,4 +1,4 @@
-# こんにちは世界！-Hello World!
+# Hello World!
 
 ## Introduction
 
