@@ -2,7 +2,7 @@
 
 ## Introduction
 情報系学部の2年生です。
-プログラミングは大学に入学してから本格的に始めたため、まだまだ駆け出しのエンジニア志望です。
+プログラミングは高校生のときに少しやっていましたが、大学に入学してから本格的に始めたため、まだまだ駆け出しのエンジニア志望です。
 CoretolというMineCraftのRPG ServerプロジェクトでCreatorChiefをやっています。
 
 ### 学習中のプログラミング言語
@@ -11,9 +11,13 @@ CoretolというMineCraftのRPG ServerプロジェクトでCreatorChiefをやっ
 - Javascript アルゴリズム書いたりするのに使う。
 - Go 単なる興味。
 - Java MineCraftというゲームでプラグインなどを作成する際に使用。授業でもやった。
+### 触ったことのある程度のプログラミング言語
 - C 授業でやっただけ。
+- Swift 高校のころ少し触った程度。
 ### 扱えるプログラミング言語
-まだなし。Python,Typescriptは習得したい。
+- HTML 難しくないことであればわかる。
+- CSS 苦手ではあるが書くことはできる。
+今後Python,Typescriptは習得したい。
 ### 使ったことのある技術
 - React
   ハッカソンで使用。
@@ -27,7 +31,7 @@ CoretolというMineCraftのRPG ServerプロジェクトでCreatorChiefをやっ
   高校の部活で触った程度。あまり記憶にない。
 ### 所持している資格・検定
 - 基本情報技術者試験(2023/9取得)
-- 英語検定2級
+- 実用英語技能検定2級
 - 文書デザイン検定1級
 - 表計算検定1級
 ### 出場したハッカソン
@@ -40,7 +44,5 @@ CoretolというMineCraftのRPG ServerプロジェクトでCreatorChiefをやっ
 [開発リポジトリ](https://github.com/haruto0707/TaskReview)
 ### 参加中のプロジェクト
 #### [Coretol](https://matchatb.wixsite.com/coretol)：Creator Chief
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruto0707&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
