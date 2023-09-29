@@ -39,8 +39,7 @@ CoretolというMineCraftのRPG ServerプロジェクトでCreatorChiefをやっ
 #### 授業内モバイルアプリ開発
 [開発リポジトリ](https://github.com/haruto0707/TaskReview)
 ### 参加中のプロジェクト
-#### [Coretol](https://matchatb.wixsite.com/coretol)
-Creator Chief
+#### [Coretol](https://matchatb.wixsite.com/coretol)：Creator Chief
 
 
 
