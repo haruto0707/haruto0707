@@ -35,14 +35,14 @@ CoretolというMineCraftのRPG ServerプロジェクトでCreatorChiefをやっ
 - 文書デザイン検定1級
 - 表計算検定1級
 ### 出場したハッカソン
-#### [HackU Nagoya 2023](https://hacku.yahoo.co.jp/hacku2023_nagoya/)
+#### HackU Nagoya 2023
 チーム：コイルカ  
 作品名：usotsukey  
 [開発リポジトリ①](https://github.com/calloc134/HACKU-2023-codespaces)   
 [開発リポジトリ②](https://github.com/neruneruna7/koiruka-judgejun-2023)
 #### 授業内モバイルアプリ開発
 [開発リポジトリ](https://github.com/haruto0707/TaskReview)
-#### [JPHACKS 2023](https://jphacks.com/)
+#### JPHACKS 2023
 チーム：てんとうむし  
 作品名：Adversarial Armor  
 [開発リポジトリ](https://github.com/jphacks/NG_2303)  
