@@ -1,7 +1,7 @@
 # Hello World!
 
 ## Introduction
-情報系学部の3年生です。
+情報系学部の4年生です。
 プログラミングは高校生のときに少しやっていましたが、大学に入学してから本格的に始めたため、まだまだ駆け出しのエンジニア志望です。
 CoretolというMineCraftのRPG ServerプロジェクトでCreatorChiefをやっています。
 
